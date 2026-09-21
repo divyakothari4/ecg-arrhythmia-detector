@@ -1,0 +1,23 @@
+﻿# Dataset and processed data (too large for GitHub)
+mit-bih-arrhythmia-database-1.0.0/
+data/processed/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environments
+.env
+.venv
+env/
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
